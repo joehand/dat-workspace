@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "workspaces": [
+    "dat/*",
+    "hyper/*",
+    "network/*",
+    "cli-utils/*",
+    "storage/*",
+    "cli-tools/*"
+  ]
+}

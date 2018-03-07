@@ -1,0 +1,54 @@
+[submodule "dat/dat-cli"]
+	path = dat/dat-cli
+	url = git@github.com:datproject/dat.git
+[submodule "dat/dat-node"]
+	path = dat/dat-node
+	url = git@github.com:datproject/dat-node.git
+[submodule "cli-utils/dat-log"]
+	path = cli-tools/dat-log
+	url = git@github.com:joehand/dat-log.git
+[submodule "cli-utils/dat-doctor"]
+	path = cli-tools/dat-doctor
+	url = git@github.com:joehand/dat-doctor.git
+[submodule "cli-utils/neat-log"]
+	path = cli-utils/neat-log
+	url = git@github.com:joehand/neat-log.git
+[submodule "cli-utils/dat-registry-client"]
+	path = cli-utils/dat-registry-client
+	url = git@github.com:datproject/dat-registry-client.git
+[submodule "hyper/hyperdrive"]
+	path = hyper/hyperdrive
+	url = git@github.com:mafintosh/hyperdrive.git
+[submodule "hyper/hypercore"]
+	path = hyper/hypercore
+	url = git@github.com:mafintosh/hypercore.git
+[submodule "hyper/hyperdb"]
+	path = hyper/hyperdb
+	url = git@github.com:mafintosh/hyperdb.git
+[submodule "network/dat-swarm-defaults"]
+	path = network/dat-swarm-defaults
+	url = git@github.com:joehand/dat-swarm-defaults.git
+[submodule "network/discovery-swarm"]
+	path = network/discovery-swarm
+	url = git@github.com:mafintosh/discovery-swarm.git
+[submodule "network/hyperdiscovery"]
+	path = network/hyperdiscovery
+	url = git@github.com:karissa/hyperdiscovery.git
+[submodule "network/discovery-channel"]
+	path = network/discovery-channel
+	url = git@github.com:maxogden/discovery-channel.git
+[submodule "network/dns-discovery"]
+	path = network/dns-discovery
+	url = git@github.com:mafintosh/dns-discovery.git
+[submodule "storage/dat-storage"]
+	path = storage/dat-storage
+	url = git@github.com:datproject/dat-storage.git
+[submodule "storage/dat-secret-storage"]
+	path = storage/dat-secret-storage
+	url = git@github.com:datproject/dat-secret-storage.git
+[submodule "storage/random-access-file"]
+	path = storage/random-access-file
+	url = git@github.com:random-access-storage/random-access-file.git
+[submodule "storage/random-access-storage"]
+	path = storage/random-access-storage
+	url = git@github.com:random-access-storage/random-access-storage.git
